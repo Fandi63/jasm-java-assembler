@@ -1,2 +1,7 @@
-# jasm-java-assembler
+# jasm
 Java assembler
+
+
+´´´´
+Usage: jasm <input_file(.asm)>
+´´´´
